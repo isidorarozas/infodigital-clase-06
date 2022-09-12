@@ -15,47 +15,79 @@
 	.st9{font-size:12.16px;}
 	.st10{fill:#3674D5;}
 	.st11{fill:none;stroke:#E5DFD7;stroke-miterlimit:10;}
+	.st12{enable-background:new    ;}
 </style>
 <rect x="-0.43" y="-0.26" class="st0" width="1024" height="768"/>
-<rect x="20.86" y="141.08" class="st1" width="618.48" height="42.34"/>
+<rect x="44.68" y="141.08" class="st1" width="594.66" height="42.34"/>
 <text transform="matrix(1 0 0 1 250.3839 164.6731)" class="st2 st3 st4">Octubre</text>
 <rect x="651.06" y="141.08" class="st1" width="342.37" height="42.34"/>
 <text transform="matrix(1 0 0 1 774.0304 166.9055)" class="st2 st3 st4">Noviembre</text>
-<rect x="21.97" y="313.87" class="st1" width="972.57" height="42.34"/>
+<rect x="40.94" y="313.87" class="st1" width="953.6" height="42.34"/>
 <text transform="matrix(1 0 0 1 508.2589 339.6945)" class="st2 st3 st4">Diciembre</text>
-<text transform="matrix(1 0 0 1 161.8546 223.6272)"><tspan x="0" y="0" class="st2 st3 st5">Día 2 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">14/10/1972</tspan></text>
-<text transform="matrix(1 0 0 1 281.7863 223.6262)"><tspan x="0" y="0" class="st2 st3 st5">Día 9</tspan><tspan x="0" y="21.89" class="st2 st6 st5">21/10/1972</tspan></text>
-<text transform="matrix(1 0 0 1 401.5031 223.4074)"><tspan x="0" y="0" class="st2 st3 st5">Día 12 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">24/10/1972</tspan></text>
-<text transform="matrix(1 0 0 1 535.5558 223.8459)"><tspan x="0" y="0" class="st7 st3 st5">Día 17</tspan><tspan x="50.09" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="21.89" class="st2 st6 st5">29/10/1972</tspan></text>
+<text transform="matrix(1 0 0 1 161.8546 223.6272)" class="st2 st3 st5">Día 2 </text>
+<text transform="matrix(1 0 0 1 161.8546 245.5172)" class="st2 st6 st5">14/10/1972</text>
+<text transform="matrix(1 0 0 1 281.7863 223.6262)" class="st2 st3 st5">Día 9</text>
+<text transform="matrix(1 0 0 1 281.7863 245.5162)" class="st2 st6 st5">21/10/1972</text>
+<text transform="matrix(1 0 0 1 401.5031 223.4074)" class="st2 st3 st5">Día 12 </text>
+<text transform="matrix(1 0 0 1 401.5031 245.2974)" class="st2 st6 st5">24/10/1972</text>
+<text transform="matrix(1 0 0 1 535.5558 223.8459)" class="st7 st3 st5">Día 17</text>
+<text transform="matrix(1 0 0 1 585.6458 223.8459)" class="st2 st3 st5"> </text>
+<text transform="matrix(1 0 0 1 535.5558 245.7359)" class="st2 st6 st5">29/10/1972</text>
 <g>
-	<text transform="matrix(1 0 0 1 535.6948 283.3127)" class="st2 st8 st9">Avalancha</text>
+	<text transform="matrix(1 0 0 1 538.6974 283.3127)" class="st2 st8 st9">Avalancha</text>
 </g>
-<text transform="matrix(1 0 0 1 684.9113 218.0334)"><tspan x="0" y="0" class="st2 st3 st5">Día 34 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">15/11/1972</tspan></text>
-<text transform="matrix(1 0 0 1 828.3409 218.2522)"><tspan x="0" y="0" class="st2 st3 st5">Día 37 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">18/11/1972</tspan></text>
-<text transform="matrix(1 0 0 1 137.6788 410.948)"><tspan x="0" y="0" class="st10 st3 st5">Día 61</tspan><tspan x="50.09" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="21.89" class="st2 st6 st5">12/12/1972</tspan></text>
-<text transform="matrix(1 0 0 1 243.6632 410.948)"><tspan x="0" y="0" class="st2 st3 st5">Día 62 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">13/10/1972</tspan></text>
-<text transform="matrix(1 0 0 1 351.3409 410.948)"><tspan x="0" y="0" class="st2 st3 st5">Día 63 </tspan><tspan x="0" y="21.89" class="st2 st6 st5">14/12/1972</tspan></text>
-<text transform="matrix(1 0 0 1 454.2296 410.948)"><tspan x="0" y="0" class="st10 st3 st5">Día 64</tspan><tspan x="0" y="21.89" class="st2 st6 st5">15/12/1972</tspan></text>
-<text transform="matrix(1 0 0 1 139.1193 483.6071)"><tspan x="0" y="0" class="st2 st8 st9">Parrado, Canessa y </tspan><tspan x="0" y="14.59" class="st2 st8 st9">Vizintín parten </tspan><tspan x="0" y="29.18" class="st2 st8 st9">en busca de ayuda</tspan></text>
+<text transform="matrix(1 0 0 1 684.9113 218.0334)" class="st2 st3 st5">Día 34 </text>
+<text transform="matrix(1 0 0 1 684.9113 239.9234)" class="st2 st6 st5">15/11/1972</text>
+<text transform="matrix(1 0 0 1 828.3409 218.2522)" class="st2 st3 st5">Día 37 </text>
+<text transform="matrix(1 0 0 1 828.3409 240.1422)" class="st2 st6 st5">18/11/1972</text>
+<text transform="matrix(1 0 0 1 141.6788 410.948)" class="st10 st3 st5">Día 61</text>
+<text transform="matrix(1 0 0 1 191.7688 410.948)" class="st2 st3 st5"> </text>
+<text transform="matrix(1 0 0 1 141.6788 432.838)" class="st2 st6 st5">12/12/1972</text>
+<text transform="matrix(1 0 0 1 243.6632 410.948)" class="st2 st3 st5">Día 62 </text>
+<text transform="matrix(1 0 0 1 243.6632 432.838)" class="st2 st6 st5">13/10/1972</text>
+<text transform="matrix(1 0 0 1 351.3409 410.948)" class="st2 st3 st5">Día 63 </text>
+<text transform="matrix(1 0 0 1 351.3409 432.838)" class="st2 st6 st5">14/12/1972</text>
+<text transform="matrix(1 0 0 1 454.2296 410.948)" class="st10 st3 st5">Día 64</text>
+<text transform="matrix(1 0 0 1 454.2296 432.838)" class="st2 st6 st5">15/12/1972</text>
+<text transform="matrix(1 0 0 1 143.1193 483.6071)" class="st2 st8 st9">Parrado, Canessa y </text>
+<text transform="matrix(1 0 0 1 143.1193 498.1971)" class="st2 st8 st9">Vizintín parten </text>
+<text transform="matrix(1 0 0 1 143.1193 512.7871)" class="st2 st8 st9">en busca de ayuda</text>
 <g>
-	<text transform="matrix(1 0 0 1 455.67 483.4597)"><tspan x="0" y="0" class="st2 st8 st9">Vizintín vuelve</tspan><tspan x="0" y="14.59" class="st2 st8 st9">al fuselaje</tspan></text>
+	<text transform="matrix(1 0 0 1 455.67 483.4597)" class="st2 st8 st9">Vizintín vuelve</text>
+	<text transform="matrix(1 0 0 1 455.67 498.0497)" class="st2 st8 st9">al fuselaje</text>
 </g>
-<text transform="matrix(1 0 0 1 561.2238 410.948)"><tspan x="0" y="0" class="st10 st3 st5">Día 69</tspan><tspan x="0" y="21.89" class="st2 st6 st5">20/12/1972</tspan></text>
+<text transform="matrix(1 0 0 1 561.2238 410.948)" class="st10 st3 st5">Día 69</text>
+<text transform="matrix(1 0 0 1 561.2238 432.838)" class="st2 st6 st5">20/12/1972</text>
 <g>
-	<text transform="matrix(1 0 0 1 562.5372 484.0114)"><tspan x="0" y="0" class="st2 st8 st9">Parrado y Canessa</tspan><tspan x="0" y="14.59" class="st2 st8 st9">piden ayuda al</tspan><tspan x="0" y="29.18" class="st2 st8 st9">arrero Sergio Catalán</tspan></text>
+	<text transform="matrix(1 0 0 1 562.5372 484.0114)" class="st2 st8 st9">Parrado y Canessa</text>
+	<text transform="matrix(1 0 0 1 562.5372 498.6014)" class="st2 st8 st9">piden ayuda al</text>
+	<text transform="matrix(1 0 0 1 562.5372 513.1914)" class="st2 st8 st9">arrero Sergio Catalán</text>
 </g>
-<text transform="matrix(1 0 0 1 686.337 411.5866)"><tspan x="0" y="0" class="st10 st3 st5">Día 70</tspan><tspan x="0" y="21.89" class="st2 st6 st5">20/12/1972</tspan></text>
+<text transform="matrix(1 0 0 1 686.337 411.5866)" class="st10 st3 st5">Día 70</text>
+<text transform="matrix(1 0 0 1 686.337 433.4766)" class="st2 st6 st5">20/12/1972</text>
 <g>
-	<text transform="matrix(1 0 0 1 687.6505 483.4597)"><tspan x="0" y="0" class="st2 st8 st9">Rescate de</tspan><tspan x="0" y="14.59" class="st2 st8 st9">Parrado y Canessa</tspan></text>
+	<text transform="matrix(1 0 0 1 687.6505 483.4597)" class="st2 st8 st9">Rescate de</text>
+	<text transform="matrix(1 0 0 1 687.6505 498.0497)" class="st2 st8 st9">Parrado y Canessa</text>
 </g>
-<text transform="matrix(1 0 0 1 801.1007 410.948)"><tspan x="0" y="0" class="st10 st3 st5">Día 71</tspan><tspan x="0" y="21.89" class="st2 st6 st5">22/12/1972</tspan></text>
-<text transform="matrix(1 0 0 1 910.0753 410.948)"><tspan x="0" y="0" class="st10 st3 st5">Día 72</tspan><tspan x="0" y="21.89" class="st2 st6 st5">23/12/1972</tspan></text>
+<text transform="matrix(1 0 0 1 801.1007 410.948)" class="st10 st3 st5">Día 71</text>
+<text transform="matrix(1 0 0 1 801.1007 432.838)" class="st2 st6 st5">22/12/1972</text>
+<text transform="matrix(1 0 0 1 910.0753 410.948)" class="st10 st3 st5">Día 72</text>
+<text transform="matrix(1 0 0 1 910.0753 432.838)" class="st2 st6 st5">23/12/1972</text>
 <g>
-	<text transform="matrix(1 0 0 1 802.0275 484.0114)"><tspan x="0" y="0" class="st2 st8 st9">Rescatan a </tspan><tspan x="1.24" y="14.59" class="st2 st8 st9">6 personas</tspan></text>
+	<text transform="matrix(1 0 0 1 802.0275 484.0114)" class="st2 st8 st9">Rescatan a </text>
+	<text transform="matrix(1 0 0 1 803.2675 498.6014)" class="st2 st8 st9">6 personas</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 908.2822 483.8659)"><tspan x="0" y="0" class="st2 st8 st9">Rescatan a </tspan><tspan x="1.24" y="14.59" class="st2 st8 st9">6 personas</tspan></text>
+	<text transform="matrix(1 0 0 1 908.2822 483.8659)" class="st2 st8 st9">Rescatan a </text>
+	<text transform="matrix(1 0 0 1 909.5222 498.4559)" class="st2 st8 st9">6 personas</text>
 </g>
-<line class="st11" x1="23.41" y1="260.46" x2="993.43" y2="260.46"/>
-<line class="st11" x1="18.91" y1="454.68" x2="988.92" y2="454.68"/>
+<line class="st11" x1="40.94" y1="260.46" x2="993.43" y2="260.46"/>
+<line class="st11" x1="40.94" y1="454.68" x2="988.92" y2="454.68"/>
+<text transform="matrix(1 0 0 1 44.8065 221.8408)" class="st12"><tspan x="0" y="0" class="st7 st3 st5">Día 2</tspan><tspan x="40.24" y="0" class="st2 st3 st5"> </tspan></text>
+<text transform="matrix(1 0 0 1 44.8065 243.7308)" class="st2 st6 st5">14/10/1972</text>
+<text transform="matrix(1 0 0 1 43.1387 411.0179)" class="st2 st3 st5">Día 60 </text>
+<text transform="matrix(1 0 0 1 43.1387 432.9079)" class="st2 st6 st5">11/10/1972</text>
+<g>
+	<text transform="matrix(1 0 0 1 46.1196 283.3124)" class="st12"><tspan x="0" y="0" class="st2 st8 st9">Avión se estrella</tspan><tspan x="0" y="14.59" class="st2 st8 st9">en Los Andes</tspan></text>
+</g>
 </svg>
